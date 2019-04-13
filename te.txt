@@ -2,3 +2,4 @@ abcdefg
 a
 ala ma kota
 ala ma kota1
+ala ma kotka
